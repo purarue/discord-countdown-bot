@@ -2,7 +2,7 @@
 
 A discord bot to count down in numeric emojis.
 
-<img src="https://raw.githubusercontent.com/seanbreckenridge/discord-countdown-bot/master/screencaps/count.png" alt="botscreencap" width=275>
+<img src="https://raw.githubusercontent.com/purarue/discord-countdown-bot/master/screencaps/count.png" alt="botscreencap" width=275>
 
 ### Installation
 
@@ -16,7 +16,7 @@ To add it to a server, use `https://discordapp.com/oauth2/authorize?&client_id=Y
 This uses [`pipenv`](https://github.com/pypa/pipenv) to manage the environment. To install:
 
 ```
-git clone https://github.com/seanbreckenridge/discord-countdown-bot
+git clone https://github.com/purarue/discord-countdown-bot
 cd discord-countdown-bot
 pipenv install
 ```
@@ -46,4 +46,4 @@ COUNTDOWN_MAX=10 python3 bot.py
 
 `@countdown help` for:
 
-<img src="https://raw.githubusercontent.com/seanbreckenridge/discord-countdown-bot/master/screencaps/help.png" alt="botscreencaphelp" width=500>
+<img src="https://raw.githubusercontent.com/purarue/discord-countdown-bot/master/screencaps/help.png" alt="botscreencaphelp" width=500>
